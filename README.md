@@ -1,6 +1,9 @@
 # Momentum-Workspace-Laucher
  A Alfred Workflow to kill any apps that won't be used and open just the only ones you need.  
  Saving CPU/Memory but also helping you to keep focus. 🧘‍♂️
+ 
+![see in action ](https://user-images.githubusercontent.com/935465/202580291-0b265502-f1f2-444d-a344-455d9794dbac.gif)
+
 
 
 
