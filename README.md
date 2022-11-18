@@ -1,4 +1,4 @@
-# Momentum-Workspace-Laucher
+# Momentum-Workspace-Laucher v1.0.0
 
  A Alfred Workflow to kill any apps that won't be used and open only those you need.  
 
